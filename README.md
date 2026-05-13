@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Euras a Junior Sofware Engineer
+- 👋 Hi, I’m @Euras a Sofware Engineer
 - 👀 I’m interested in Modern and Professional Sofware Engineering 
 - 🌱 I’m currently learning new programming languages
 - 💞️ I’m looking to collaborate on OpenSource project, AI project, Start-up and any kind of project reletad to Software
